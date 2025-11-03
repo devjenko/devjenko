@@ -19,7 +19,7 @@ I'm a full-stack developer passionate about building modern, efficient, and user
 
 
 ## 📫 Connect With Me
-- **LinkedIn:** [www.linkedin.com/in/brandon-jenkins-dev](#)
+- **LinkedIn:** [https://www.linkedin.com/in/brandon-jenkins-dev](#)
 - **Email:** brandonrichardjenkins@gmail.com
 
 ---
