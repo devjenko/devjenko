@@ -1,6 +1,32 @@
-# Hi, I'm Brandon 👋
+<h1 align="center">
+  Hi, I'm Brandon 👋
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhoZ2diYnV1NmRzMWRqdWdsMXc3a281MHlmcmRubWFlbm5mYWF3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="40" style="vertical-align: middle;">
+</h1>
 
-I'm a full-stack developer passionate about building modern, efficient, and user-friendly applications.
+<p align="center">
+  I'm a <strong>Full-Stack Developer</strong> passionate about building modern, efficient, and user-friendly web applications.<br>
+  I love working with <strong>JavaScript, React, Node.js, and Tailwind CSS</strong>.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNxaDdpejZrcjNxazY4MGwxYjhmMXNheTg5cjhzNTg3OGNoNHFkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="30%">
+</p>
+
+
+
+<p align="center">
+  <a href="https://github.com/brxndonbrxh](https://github.com/devjenko">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="www.linkedin.com/in/brandon-jenkins-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="brandonrichardjenkins@gmail.com">
+    <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## 🧩 Tech Stack
 
@@ -17,10 +43,6 @@ I'm a full-stack developer passionate about building modern, efficient, and user
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-
-## 📫 Connect With Me
-- **LinkedIn:** [www.linkedin.com/in/brandon-jenkins-dev/](https://www.linkedin.com/in/brandon-jenkins-dev/)
-- **Email:** brandonrichardjenkins@gmail.com
 
 ---
 ⭐️ Feel free to explore my repositories and reach out for collaboration or feedback.
