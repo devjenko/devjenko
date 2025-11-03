@@ -24,7 +24,7 @@ Outside of coding, I enjoy exploring new technologies, experimenting with side p
   <a href="https://www.linkedin.com/in/brandon-jenkins-dev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="brandonrichardjenkins@gmail.com">
+  <a href="mailto:brandonrichardjenkins@gmail.com">
     <img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
