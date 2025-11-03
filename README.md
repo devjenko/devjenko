@@ -52,3 +52,8 @@ Outside of coding, I enjoy exploring new technologies, experimenting with side p
 
 ---
 <p align="center">⭐️ Feel free to explore my repositories and reach out for collaboration or feedback. </p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devjenko" alt="Visitor Count">
+</p>
+
