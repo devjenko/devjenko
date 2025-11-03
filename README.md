@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Brandon 👋
 
-<!--
-**devjenko/devjenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer passionate about building modern, efficient, and user-friendly applications.
 
-Here are some ideas to get you started:
+## 🧩 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, Tailwind, React, Next.js  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB, Firebase  
+- **Tools:** Git, GitHub, VS Code, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+- **LinkedIn:** [www.linkedin.com/in/brandon-jenkins-dev](#)
+- **Email:** brandonrichardjenkins@gmail.com
+
+---
+⭐️ Feel free to explore my repositories and reach out for collaboration or feedback.
