@@ -1,6 +1,5 @@
 <h1 align="center">
   Hi, I'm Brandon 👋
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhoZ2diYnV1NmRzMWRqdWdsMXc3a281MHlmcmRubWFlbm5mYWF3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gXr3j6YAClXFfZABn5/giphy.gif" width="40" style="vertical-align: middle;">
 </h1>
 
 <p align="center">
