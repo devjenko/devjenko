@@ -4,6 +4,7 @@
 
 <p align="center">
   I'm a <strong>Full-Stack Developer</strong> passionate about building modern, efficient, and user-friendly web applications. <br>
+  
 Outside of coding, I enjoy exploring new technologies, experimenting with side projects, and continuously learning to improve my craft.
 
 </p>
@@ -29,7 +30,7 @@ Outside of coding, I enjoy exploring new technologies, experimenting with side p
 </p>
 
 <h2 align="center">
-🧩 Tech Stack
+Tech Stack
 </h2> 
 
 <p align="center">
@@ -53,7 +54,7 @@ Outside of coding, I enjoy exploring new technologies, experimenting with side p
 
 
 ---
-<p align="center">⭐️ Feel free to explore my repositories and reach out for collaboration or feedback. </p>
+<p align="center"> Feel free to explore my repositories and reach out for collaboration or feedback. </p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=devjenko" alt="Visitor Count">
