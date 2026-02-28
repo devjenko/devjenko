@@ -5,7 +5,7 @@
 <p align="center">
   I'm a <strong>Full-Stack Developer</strong> passionate about building modern, efficient, and user-friendly web applications. <br>
   
-Outside of coding, I enjoy exploring new technologies, experimenting with side projects, and continuously learning to improve my craft.
+  Outside of coding, I enjoy exploring new technologies, experimenting with side projects, and continuously learning to improve my craft.
 
 </p>
 
