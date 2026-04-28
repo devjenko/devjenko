@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  I'm a <strong>Full-Stack Developer</strong> passionate about building modern, efficient, and user-friendly web applications. <br>
-  Outside of coding, I enjoy exploring new technologies, experimenting with side projects, and continuously learning to improve my craft.
+  
+I'm a <strong>Full-Stack Developer</strong> from South Africa who loves crafting modern, performant web experiences that are as intuitive as they are functional. When I'm not writing code, you'll find me tinkering with side projects, exploring emerging technologies, and sharpening my craft one build at a time.
 
 </p>
 
