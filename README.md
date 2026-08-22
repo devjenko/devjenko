@@ -1,14 +1,14 @@
 <h1 align="center">
-  Hi, I'm Brandon 👋
+  Brandon Jenkins 
 </h1>
 
 <p align="center">
-  
+
 I'm a <strong>Full-Stack Developer</strong> from South Africa who loves crafting modern, performant web experiences that are as intuitive as they are functional. When I'm not writing code, you'll find me tinkering with side projects, exploring emerging technologies, and sharpening my craft one build at a time.
 
 </p>
 
----
+<br>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNxaDdpejZrcjNxazY4MGwxYjhmMXNheTg5cjhzNTg3OGNoNHFkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="30%">
